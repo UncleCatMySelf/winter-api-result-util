@@ -18,6 +18,10 @@ We offer the return class and return tool classes developed by the traditional r
 
 Here is a demo
 
+If you use remember to add a scan path
+
+> @ComponentScan({"com.myself.winter"})
+
 ```java
 
 @org.springframework.beans.factory.annotation.Autowired
